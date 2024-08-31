@@ -1,13 +1,3 @@
-shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-
 # Deep Reinforcement Learning - Exercise Solutions
 
 Welcome to the repository for solutions to the questions and exercises from the book *Deep Reinforcement Learning*, written by Aske Plaat. This repository is intended to assist learners using the book for self-study by providing solutions to the exercises included in the text.
@@ -23,7 +13,7 @@ The goal of this repository is to support others who are studying reinforcement 
 - **Title:** Deep Reinforcement Learning
 - **Author:** Aske Plaat
 - **Publication Year:** 2022
-- **Preprint Version:** Available under [CC BY-NC-SA 4.0 License](https://arxiv.org/abs/2202.07477)
+- **Preprint Version:** Available at [https://arxiv.org/abs/2202.07477](https://arxiv.org/abs/2202.07477) under CC BY-NC-SA 4.0 License
 
 ## Disclaimer
 
@@ -35,7 +25,7 @@ If you find errors or have improvements, feel free to open issues or submit pull
 
 ## Contact
 
-For any questions or concerns, please contact me at [Your Email Address] or open an issue in the repository.
+For any questions or concerns, please open an issue in the repository.
 
 ## Acknowledgments
 
