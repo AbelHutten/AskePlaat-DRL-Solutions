@@ -60,4 +60,3 @@ For any questions or concerns, please open an issue in the repository.
 
 I would like to extend my gratitude to Aske Plaat for writing *Deep Reinforcement Learning* and providing a comprehensive and insightful resource in the field of reinforcement learning.
 
-Happy learning!
