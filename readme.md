@@ -50,11 +50,7 @@ The solutions provided are based on my interpretation of the exercises and are n
 
 ## How to Contribute
 
-If you find errors or have improvements, feel free to open issues or submit pull requests. Contributions are welcome, provided they adhere to the repository’s guidelines and respect the license terms.
-
-## Contact
-
-For any questions or concerns, please open an issue in the repository.
+If you find errors or have improvements, feel free to open issues or submit pull requests. Contributions are welcome.
 
 ## Acknowledgments
 
