@@ -19,6 +19,35 @@ The goal of this repository is to support others who are studying reinforcement 
 
 The solutions provided are based on my interpretation of the exercises and are not guaranteed to be error-free.
 
+## Progress
+- [ ] Chapter 2: Tabular Value-Based Reinforcement Learning
+  - [ ] Questions
+  - [ ] Exercises
+- [ ] Chapter 3: Deep Value-Based Reinforcement Learning
+  - [ ] Questions
+  - [ ] Exercises
+- [ ] Chapter 4: Policy-Based Reinforcement Learning
+  - [ ] Questions
+  - [ ] Exercises
+- [ ] Chapter 5: Model-Based Reinforcement Learning
+  - [ ] Questions
+  - [ ] Exercises
+- [ ] Chapter 6: Two-Agent Self-Play
+  - [ ] Questions
+  - [ ] Exercises
+- [ ] Chapter 7: Multi-Agent Reinforcement Learning
+  - [ ] Questions
+  - [ ] Exercises
+- [ ] Chapter 8: Hierarchical Reinforcement Learning
+  - [ ] Questions
+  - [ ] Exercises
+- [ ] Chapter 9: Meta-Learning
+  - [ ] Questions
+  - [ ] Exercises
+- [ ] Appendix B: Deep Supervised Learning
+  - [ ] Questions
+  - [ ] Exercises
+
 ## How to Contribute
 
 If you find errors or have improvements, feel free to open issues or submit pull requests. Contributions are welcome, provided they adhere to the repository’s guidelines and respect the license terms.
