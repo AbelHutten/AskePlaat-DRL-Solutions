@@ -21,7 +21,7 @@ The solutions provided are based on my interpretation of the exercises and are n
 
 ## Progress
 - [ ] Chapter 2: Tabular Value-Based Reinforcement Learning
-  - [ ] Questions
+  - [X] Questions
   - [ ] Exercises
 - [ ] Chapter 3: Deep Value-Based Reinforcement Learning
   - [ ] Questions
