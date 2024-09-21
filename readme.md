@@ -13,7 +13,7 @@ The goal of this repository is to support others who are studying reinforcement 
 - **Title:** Deep Reinforcement Learning
 - **Author:** Aske Plaat
 - **Publication Year:** 2022
-- **Preprint Version:** Available at [https://arxiv.org/abs/2202.07477](https://arxiv.org/abs/2202.07477) under CC BY-NC-SA 4.0 License
+- **Preprint Version:** Available at [https://arxiv.org/pdf/2201.02135v5](https://arxiv.org/pdf/2201.02135v5) under CC BY-NC-SA 4.0 License
 
 ## Disclaimer
 
