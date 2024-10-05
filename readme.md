@@ -27,16 +27,16 @@ The solutions provided are based on my interpretation of the exercises and are n
   - [X] Questions
   - [ ] Exercises
 - [ ] Chapter 4: Policy-Based Reinforcement Learning
-  - [ ] Questions
+  - [X] Questions
   - [ ] Exercises
 - [ ] Chapter 5: Model-Based Reinforcement Learning
-  - [ ] Questions
+  - [X] Questions
   - [ ] Exercises
 - [ ] Chapter 6: Two-Agent Self-Play
-  - [ ] Questions
+  - [X] Questions
   - [ ] Exercises
 - [ ] Chapter 7: Multi-Agent Reinforcement Learning
-  - [ ] Questions
+  - [X] Questions
   - [ ] Exercises
 - [ ] Chapter 8: Hierarchical Reinforcement Learning
   - [ ] Questions
